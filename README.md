@@ -1,3 +1,5 @@
+This API app is a sample machine learning simulator. It accepts 3 inputs and gives 2 output values. At the moment the computation is a combination of addition and subtraction. You can insert the machine learning model of your choice.
+
 To run the API locally, follow these steps:
 
 Clone this repository to your local machine:
